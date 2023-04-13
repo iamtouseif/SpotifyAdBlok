@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/31l6ynm0a1fhr2vs/branch/master?svg=true)](https://ci.appveyor.com/project/mrpond/blockthespot/branch/master)  [![Discord](https://discord.com/api/guilds/807273906872123412/widget.png)](https://discord.gg/p43cusgUPm)
+Support Authorg  by Donating BNB - 0x3a48c873C39fFeD0D35b64618B52b81C0B4642cd
+Support Author by Donating ETH - 0x813F1F324E57fce46a650dDd99802e8ce58682aF
 
 <center>
     <h1 align="center">SpotifyAdBlok</h1>
